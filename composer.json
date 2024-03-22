@@ -1,5 +1,5 @@
 {
-    "name": "mohammad-waleed/keycloak-admin-client",
+    "name": "devatmaliance/keycloak-admin-client",
     "description": "Connect to keycloak admin api easily",
     "type": "library",
     "license": "MIT",
