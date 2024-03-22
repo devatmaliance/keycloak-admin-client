@@ -2074,6 +2074,12 @@ return array(
                     'type'        => 'string',
                     'required'    => true,
                 ),
+                'max' => array(
+                    'location'    => 'query',
+                    'description' => 'Maximum results size (defaults to 100)',
+                    'type'        => 'integer',
+                    'required'    => false,
+                ),
             )
         ),
 
